@@ -1,0 +1,19 @@
+#author{
+  height: auto;
+}
+
+#social{
+  font-size: 12px;
+}
+
+#pills-tab a{
+  border-radius:0;
+}
+
+#folio img{
+  height: 200px;
+}
+
+#modal_img{
+  height: 300px;
+}
